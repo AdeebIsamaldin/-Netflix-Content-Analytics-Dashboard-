@@ -1,16 +1,17 @@
 # -Netflix-Content-Analytics-Dashboard-
-This project showcases an interactive Power BI dashboard for in-depth analysis of Netflix’s global content catalog. 
+**This project showcases an interactive Power BI dashboard for in-depth analysis of Netflix’s global content catalog. **
 
 ----
-Project Description
+**Project Description** ::
 This project showcases an interactive Power BI dashboard for in-depth analysis of Netflix’s global content catalog. Through dynamic visualizations and KPI metrics, the dashboard provides stakeholders with clear insights into platform growth, content diversity, audience segments, and regional dynamics, empowering business and marketing teams to make data-driven decisions.
 
 ----
-Project Aim ::
+**Project Aim** ::
 The goal was to uncover key trends in Netflix’s movie and TV show releases, highlight top performing genres and countries, and reveal user interests by analyzing content rating and release patterns. The dashboard is designed to assist decision-makers in optimizing content curation strategies and identifying expansion opportunities.
 
  ----
 **Project Overview** :
+-
 1)Built a centralized, interactive Power BI dashboard to visualize and explore Netflix data spanning nearly a century (1925–2021).
 
 2)Integrated multiple real-time insights using summary cards (Total Titles: 8,808, Locations: 749, Average Minutes Watched: 99.59 minutes).
@@ -30,7 +31,7 @@ The goal was to uncover key trends in Netflix’s movie and TV show releases, hi
 
 -Created calculated columns and measures for dynamic analysis
 
---
+---
 **Technical Implementation**
 -Loaded more than 8,800 records and 749 unique location entries using Power Query for comprehensive data integration and advanced data shaping.
 
@@ -42,7 +43,7 @@ The goal was to uncover key trends in Netflix’s movie and TV show releases, hi
 
 -Created fully automated refresh pipelines to keep reporting up-to-date as new content becomes available.
 
---
+---
 **Key Features**:
 -KPI cards summarizing total titles (8,808), ratings (8,808), first/last releases (1925, 2021), and locations (749)
 
